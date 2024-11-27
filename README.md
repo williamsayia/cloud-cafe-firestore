@@ -1,0 +1,1 @@
+These is a simple web application that utilizes firebase to store and get data from firestore. Though i didnt manage to implement the delete option from deleting data both in DOM and firestore database. It was somehow challenging.
